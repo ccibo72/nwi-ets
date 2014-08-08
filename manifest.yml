@@ -1,0 +1,7 @@
+---
+applications:
+- name: nebula_ets
+  memory: 128M
+  instances: 1
+  url: nebula-ets.${random-word}
+  path: .
