@@ -1,7 +1,7 @@
 ---
 applications:
-- name: nebula_ets
+- name: nwi-ets
   memory: 128M
   instances: 1
-  url: nebula-ets.${random-word}
+  url: nwi-ets.${random-word}
   path: .
