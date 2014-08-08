@@ -1,6 +1,6 @@
 require 'sinatra'
 require 'sinatra/base'
-require './nebula-ets'
+require './nwi-ets'
 map '/' do
 run YakApp
 end
